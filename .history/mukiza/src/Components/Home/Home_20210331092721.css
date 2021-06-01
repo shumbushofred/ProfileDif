@@ -1,0 +1,8 @@
+.Home {
+  background-color: linear-gradient(#557ebd, #b773d9);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: rgb(255, 255, 255);
+}

@@ -1,0 +1,7 @@
+.ulrouter {
+  list-style-type: none;
+  display: flex;
+}
+.ulrouter > li {
+  margin-left: auto;
+}

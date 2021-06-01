@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+ 
+}
+.App > h2 {
+  margin-top: 15px;
+}
+.App > h2 {
+  font-size: 90px;
+}

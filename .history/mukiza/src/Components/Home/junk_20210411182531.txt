@@ -1,0 +1,15 @@
+ // const [inView, setInView] = useState(false);
+    // const [innerView, setInnerView] = useState(false);
+    // const [theref, settheref] = useState(false);
+    // const dosomething = () =>{
+    //     setInView(inView)
+    //     console.log('outerview', inView)
+    // };
+    // const innerviewchanger = (innrView) =>{
+    //     setInnerView(innrView)
+    //     console.log('inner view', innerView)
+    // };
+    // const therefchanger = (therf) =>{
+    //     settheref(therf)
+    //     console.log('theref', theref)
+    // };

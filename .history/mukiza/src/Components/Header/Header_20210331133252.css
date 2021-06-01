@@ -1,0 +1,9 @@
+.Header {
+  background-color: rgb(17, 20, 36);
+}
+.image {
+  float: left;
+}
+.navigations {
+  float: right;
+}

@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+  margin-right:'50';
+}
+.App > h2 {
+  font-size: medium;
+}

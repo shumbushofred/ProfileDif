@@ -1,0 +1,9 @@
+.Home {
+  background: linear-gradient(#557ebd, #b773d9);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 10%;
+  color: white;
+}

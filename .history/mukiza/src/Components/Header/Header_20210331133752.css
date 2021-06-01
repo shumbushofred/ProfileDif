@@ -1,0 +1,16 @@
+.Header {
+  background-color: rgb(17, 20, 36);
+}
+.Header::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.image {
+  float: left;
+  width: 10px;
+  height: 10px;
+}
+.navigations {
+  float: right;
+}
