@@ -1,0 +1,21 @@
+.Header {
+  background-color: #d9d9d9;
+  height: 55px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.Header::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.image {
+  float: left;
+  width: 55px;
+  height: 55px;
+}
+.navigations {
+  float: right;
+  padding-top: 10px;
+}
